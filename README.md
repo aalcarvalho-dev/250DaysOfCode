@@ -72,7 +72,7 @@ Example:
 
 day-001/
 ├── README.md
-└── src/
+└── src/App
 └── Main.java
 
 
